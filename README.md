@@ -3,7 +3,7 @@
 End-to-end retail sales analysis project: raw sales data is cleaned in Python, loaded into MySQL, queried with SQL for key business metrics, and visualised in a Power BI dashboard.
 
 ## My Contribution
-Electronics accounted for 97.5% of total revenue ($4,208,500 across 100 orders), with Maharashtra (MH) as the top-performing state at $1,168,500. Average order value was $42,085, with cash and debit card the most common payment methods.
+Built this project end-to-end: wrote the Python data cleaning and MySQL loading script (analysis.py), authored all SQL analysis queries (revenue by category/state/city, top customers, monthly trends, payment method breakdown), and built the Power BI dashboard visuals.
 
 ## Tech Stack
 - **Python** (pandas, SQLAlchemy) — data cleaning and loading
