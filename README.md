@@ -3,7 +3,7 @@
 End-to-end retail sales analysis project: raw sales data is cleaned in Python, loaded into MySQL, queried with SQL for key business metrics, and visualised in a Power BI dashboard.
 
 ## My Contribution
-[Fill this in once your role is confirmed with your collaborator — e.g. "Wrote the SQL analysis queries (revenue by category/state/city, top customers, monthly trend) and built the Power BI dashboard visuals." Be specific; this is what you'll speak to in interviews.]
+Wrote the SQL analysis queries (revenue by category/state/city, top customers, monthly trend) and built the Power BI dashboard visuals.
 
 ## Tech Stack
 - **Python** (pandas, SQLAlchemy) — data cleaning and loading
