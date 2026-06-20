@@ -17,7 +17,7 @@ Electronics accounted for 97.5% of total revenue ($4,208,500 across 100 orders),
 3. `Sales.pbix` is the Power BI dashboard built on the cleaned data
 
 ## Key Insight
-[Add one specific number/finding once you've reviewed the output — e.g. "Electronics accounted for X% of total revenue, with Y as the top-performing state."]
+Electronics accounted for 97.5% of total revenue ($4,208,500 across 100 orders), with Maharashtra (MH) as the top-performing state at $1,168,500. Average order value was $42,085, with cash and debit card the most common payment methods.
 
 ## How to Run
 1. Install dependencies: `pip install -r requirements.txt`
